@@ -1,0 +1,14 @@
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+yolov8n.onnx
+runs/
+outputs/
